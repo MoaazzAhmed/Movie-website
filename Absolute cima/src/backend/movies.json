@@ -1,0 +1,494 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Fight Club",
+      "rating": 8.4,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 2,
+      "title": "Forrest Gump",
+      "rating": 8.5,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "rating": 8.7,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 4,
+      "title": "The Shawshank Redemption",
+      "rating": 9.0,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 5,
+      "title": "The Shawshank Redemption",
+      "rating": 9.0,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 6,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.8,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 7,
+      "title": "The Godfather",
+      "rating": 9.1,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "rating": 8.5,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 9,
+      "title": "Schindler's List",
+      "rating": 8.9,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 10,
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 11,
+      "title": "The Shawshank Redemption",
+      "rating": 9.0,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 12,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.3,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 13,
+      "title": "The Godfather",
+      "rating": 8.8,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 14,
+      "title": "The Dark Knight",
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "plot": "Batman faces the Joker, who thrusts Gotham into chaos."
+    },
+    {
+      "id": 15,
+      "title": "12 Angry Men",
+      "rating": 8.9,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 16,
+      "title": "The Shawshank Redemption",
+      "rating": 9.1,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 17,
+      "title": "Fight Club",
+      "rating": 8.5,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 18,
+      "title": "The Godfather",
+      "rating": 8.7,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 19,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.7,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 20,
+      "title": "Pulp Fiction",
+      "rating": 8.7,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 21,
+      "title": "Schindler's List",
+      "rating": 8.6,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 22,
+      "title": "The Godfather",
+      "rating": 9.2,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 23,
+      "title": "Schindler's List",
+      "rating": 8.6,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 24,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.4,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 25,
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 26,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.6,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 27,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.8,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 28,
+      "title": "12 Angry Men",
+      "rating": 8.9,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 29,
+      "title": "Fight Club",
+      "rating": 8.3,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 30,
+      "title": "The Godfather",
+      "rating": 9.0,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 31,
+      "title": "The Dark Knight",
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "plot": "Batman faces the Joker, who thrusts Gotham into chaos."
+    },
+    {
+      "id": 32,
+      "title": "The Shawshank Redemption",
+      "rating": 9.0,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 33,
+      "title": "Fight Club",
+      "rating": 8.7,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 34,
+      "title": "The Shawshank Redemption",
+      "rating": 9.3,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 35,
+      "title": "The Shawshank Redemption",
+      "rating": 8.8,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 36,
+      "title": "Schindler's List",
+      "rating": 8.9,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 37,
+      "title": "Pulp Fiction",
+      "rating": 8.5,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 38,
+      "title": "12 Angry Men",
+      "rating": 8.7,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 39,
+      "title": "Pulp Fiction",
+      "rating": 8.6,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 40,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.5,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 41,
+      "title": "The Godfather",
+      "rating": 8.8,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 42,
+      "title": "The Godfather",
+      "rating": 9.2,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 43,
+      "title": "The Dark Knight",
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "plot": "Batman faces the Joker, who thrusts Gotham into chaos."
+    },
+    {
+      "id": 44,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.5,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 45,
+      "title": "Forrest Gump",
+      "rating": 8.4,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 46,
+      "title": "The Shawshank Redemption",
+      "rating": 9.3,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over years, finding redemption through acts of decency."
+    },
+    {
+      "id": 47,
+      "title": "Fight Club",
+      "rating": 8.4,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 48,
+      "title": "12 Angry Men",
+      "rating": 9.0,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 49,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.5,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 50,
+      "title": "Forrest Gump",
+      "rating": 8.3,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 51,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.7,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 52,
+      "title": "Schindler's List",
+      "rating": 8.8,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 53,
+      "title": "Fight Club",
+      "rating": 8.5,
+      "director": "David Fincher",
+      "plot": "A man forms an underground fight club with soap-maker Tyler Durden."
+    },
+    {
+      "id": 54,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.4,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 55,
+      "title": "Schindler's List",
+      "rating": 8.8,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    },
+    {
+      "id": 56,
+      "title": "The Dark Knight",
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "plot": "Batman faces the Joker, who thrusts Gotham into chaos."
+    },
+    {
+      "id": 57,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.5,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 58,
+      "title": "The Godfather",
+      "rating": 8.9,
+      "director": "Francis Ford Coppola",
+      "plot": "The patriarch of an organized crime dynasty transfers control to his reluctant son."
+    },
+    {
+      "id": 59,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.5,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 60,
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.8,
+      "director": "Peter Jackson",
+      "plot": "Men battle Sauron's army to distract from Frodo's quest."
+    },
+    {
+      "id": 61,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.5,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 62,
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 63,
+      "title": "12 Angry Men",
+      "rating": 8.9,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 64,
+      "title": "12 Angry Men",
+      "rating": 8.7,
+      "director": "Sidney Lumet",
+      "plot": "A jury holdout tries to prevent a miscarriage of justice."
+    },
+    {
+      "id": 65,
+      "title": "The Good, the Bad and the Ugly",
+      "rating": 8.5,
+      "director": "Sergio Leone",
+      "plot": "Three gunslingers vie for a buried treasure."
+    },
+    {
+      "id": 66,
+      "title": "Forrest Gump",
+      "rating": 8.4,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 67,
+      "title": "Forrest Gump",
+      "rating": 8.8,
+      "director": "Robert Zemeckis",
+      "plot": "A simple man witnesses key historical events in America."
+    },
+    {
+      "id": 68,
+      "title": "The Dark Knight",
+      "rating": 9.0,
+      "director": "Christopher Nolan",
+      "plot": "Batman faces the Joker, who thrusts Gotham into chaos."
+    },
+    {
+      "id": 69,
+      "title": "Pulp Fiction",
+      "rating": 8.5,
+      "director": "Quentin Tarantino",
+      "plot": "Crime tales of LA's underworld intersect in darkly comic ways."
+    },
+    {
+      "id": 70,
+      "title": "Schindler's List",
+      "rating": 8.5,
+      "director": "Steven Spielberg",
+      "plot": "A businessman becomes an unlikely humanitarian in WWII."
+    }
+  ]
+}
